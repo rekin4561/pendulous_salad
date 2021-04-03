@@ -1,12 +1,12 @@
 title: Parcel Forwarding Poland
 description: A simple and elegant theme for Jekyll and GitHub Pages.
 social_link: twitter
-social_username: broccolini
+social_username: parcel Poland
 github_repo: athena
-github_username: broccolini
+github_username: Parcel Poland
 theme_color: light
 remote_theme: internet-de-france/athena
-baseurl: /pendulous_salad
+baseurl: /parcel Poland
 defaults:
   - scope:
       path: ''
