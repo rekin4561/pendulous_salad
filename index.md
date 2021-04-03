@@ -5,6 +5,7 @@ title: Parcel Forwarding Poland
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+Shop in Poland and European webshops
+& get it delivered to your doorstep!
 
 
